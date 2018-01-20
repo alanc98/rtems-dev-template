@@ -5,3 +5,7 @@
 	path = rtems-src/rtems
 	url = git://git.rtems.org/rtems.git
 	branch = master
+[submodule "apps/rki"]
+	path = apps/rki
+	url = https://github.com/alanc98/rki.git
+	branch = master
