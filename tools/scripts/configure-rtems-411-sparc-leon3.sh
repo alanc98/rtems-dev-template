@@ -1,4 +1,4 @@
-../../rtems-src/rtems-4.11.3/configure \
+../../rtems-src/rtems-4.11/configure \
 --target=sparc-rtems4.11 \
 --enable-rtemsbsp="leon3" \
 --enable-tests=samples \

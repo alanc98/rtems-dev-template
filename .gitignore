@@ -1,7 +1,9 @@
 apps/rki*
-apps/rpi-firmware*
+apps/firmware*
 tools/4*
 tools/5*
 tools/rtems-source-builder*
 rtems-src/rtems*
 build/build*
+bsps/4*
+bsps/5*
