@@ -1,0 +1,4 @@
+apps/rki*
+apps/rpi-firmware*
+tools/rtems-source-builder*
+rtems-src/rtems*
